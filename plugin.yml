@@ -1,1 +1,5 @@
+name: MobStacker
+author: SwiftPage340819
 main: MobStacker\Main
+api: 3.0.0
+
