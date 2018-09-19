@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace mobstacker\stacker;
+namespace SwiftPage340819\MobStacker;
 
 use pocketmine\Player;
 use pocketmine\entity\Living;
